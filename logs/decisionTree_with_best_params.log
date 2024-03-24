@@ -1,0 +1,291 @@
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Hyperparameters : {'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 10, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 7, 'min_weight_fraction_leaf': 0.0, 'random_state': None, 'splitter': 'best'}
+INFO:root:Train ROC AUC: 0.9656437141916786
+INFO:root:Test ROC AUC: 0.95728011587672
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.92     32893
+         Yes       0.88      0.97      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.86      0.91      3655
+         Yes       0.88      0.96      0.92      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.92      0.91      0.91      7310
+weighted avg       0.92      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Hyperparameters : {'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 10, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 7, 'min_weight_fraction_leaf': 0.0, 'random_state': None, 'splitter': 'best'}
+INFO:root:Train ROC AUC: 0.964804764644785
+INFO:root:Test ROC AUC: 0.9532785888191692
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.88      0.92     32893
+         Yes       0.89      0.97      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.86      0.90      3655
+         Yes       0.87      0.96      0.91      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.91      0.91      0.91      7310
+weighted avg       0.91      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Hyperparameters : {'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 10, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 7, 'min_weight_fraction_leaf': 0.0, 'random_state': None, 'splitter': 'best'}
+INFO:root:Train ROC AUC: 0.9640523889208064
+INFO:root:Test ROC AUC: 0.9593633143137317
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.92     32893
+         Yes       0.88      0.96      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.87      0.91      3655
+         Yes       0.88      0.95      0.92      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.92      0.91      0.91      7310
+weighted avg       0.92      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Hyperparameters : {'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 10, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 7, 'min_weight_fraction_leaf': 0.0, 'random_state': None, 'splitter': 'best'}
+INFO:root:Train ROC AUC: 0.9638844947551704
+INFO:root:Test ROC AUC: 0.9560341417131865
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.88      0.92     32893
+         Yes       0.89      0.96      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.86      0.90      3655
+         Yes       0.88      0.95      0.91      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.91      0.91      0.91      7310
+weighted avg       0.91      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Hyperparameters : {'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 10, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 7, 'min_weight_fraction_leaf': 0.0, 'random_state': None, 'splitter': 'best'}
+INFO:root:Train ROC AUC: 0.9645327694972559
+INFO:root:Test ROC AUC: 0.9591530070495413
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.91     32893
+         Yes       0.88      0.96      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.86      0.91      3655
+         Yes       0.88      0.96      0.92      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.92      0.91      0.91      7310
+weighted avg       0.92      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Hyperparameters : {'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 10, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 7, 'min_weight_fraction_leaf': 0.0, 'random_state': None, 'splitter': 'best'}
+INFO:root:Train ROC AUC: 0.964829599446471
+INFO:root:Test ROC AUC: 0.9574202084358702
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.88      0.92     32893
+         Yes       0.89      0.96      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.87      0.91      3655
+         Yes       0.88      0.95      0.91      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.91      0.91      0.91      7310
+weighted avg       0.91      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Hyperparameters : {'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 10, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 7, 'min_weight_fraction_leaf': 0.0, 'random_state': None, 'splitter': 'best'}
+INFO:root:Train ROC AUC: 0.9643934263023306
+INFO:root:Test ROC AUC: 0.9544449536029328
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.91     32894
+         Yes       0.88      0.96      0.92     32893
+
+    accuracy                           0.92     65787
+   macro avg       0.92      0.92      0.92     65787
+weighted avg       0.92      0.92      0.92     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.86      0.90      3654
+         Yes       0.88      0.95      0.91      3655
+
+    accuracy                           0.91      7309
+   macro avg       0.91      0.91      0.91      7309
+weighted avg       0.91      0.91      0.91      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Hyperparameters : {'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 10, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 7, 'min_weight_fraction_leaf': 0.0, 'random_state': None, 'splitter': 'best'}
+INFO:root:Train ROC AUC: 0.9642867683694603
+INFO:root:Test ROC AUC: 0.957862118383841
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.88      0.92     32894
+         Yes       0.89      0.96      0.92     32893
+
+    accuracy                           0.92     65787
+   macro avg       0.92      0.92      0.92     65787
+weighted avg       0.92      0.92      0.92     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.87      0.91      3654
+         Yes       0.88      0.96      0.92      3655
+
+    accuracy                           0.91      7309
+   macro avg       0.91      0.91      0.91      7309
+weighted avg       0.91      0.91      0.91      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Hyperparameters : {'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 10, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 7, 'min_weight_fraction_leaf': 0.0, 'random_state': None, 'splitter': 'best'}
+INFO:root:Train ROC AUC: 0.9641329460809259
+INFO:root:Test ROC AUC: 0.9553284558945203
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.88      0.91     32893
+         Yes       0.89      0.95      0.92     32894
+
+    accuracy                           0.92     65787
+   macro avg       0.92      0.92      0.92     65787
+weighted avg       0.92      0.92      0.92     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.86      0.90      3655
+         Yes       0.87      0.95      0.91      3654
+
+    accuracy                           0.90      7309
+   macro avg       0.91      0.90      0.90      7309
+weighted avg       0.91      0.90      0.90      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Hyperparameters : {'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': 10, 'max_features': None, 'max_leaf_nodes': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 7, 'min_weight_fraction_leaf': 0.0, 'random_state': None, 'splitter': 'best'}
+INFO:root:Train ROC AUC: 0.9638115494309979
+INFO:root:Test ROC AUC: 0.9536015475422994
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.91     32893
+         Yes       0.88      0.96      0.92     32894
+
+    accuracy                           0.92     65787
+   macro avg       0.92      0.92      0.92     65787
+weighted avg       0.92      0.92      0.92     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.86      0.91      3655
+         Yes       0.87      0.96      0.91      3654
+
+    accuracy                           0.91      7309
+   macro avg       0.91      0.91      0.91      7309
+weighted avg       0.91      0.91      0.91      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Overall Training ROC Score: 0.9644372421639883, Testing ROC Score : 0.9563766451631814

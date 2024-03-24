@@ -1,0 +1,409 @@
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9330446433012276
+INFO:root:Test ROC AUC: 0.9247482192556252
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9326811490129437
+INFO:root:Test ROC AUC: 0.928229515543186
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9318360848533263
+INFO:root:Test ROC AUC: 0.9366697721590641
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.932520878098532
+INFO:root:Test ROC AUC: 0.9282808151327894
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9327836597894975
+INFO:root:Test ROC AUC: 0.9282106467286192
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9321033801925738
+INFO:root:Test ROC AUC: 0.9330451908108872
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9322099386924257
+INFO:root:Test ROC AUC: 0.9328134581819898
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.931758180739989
+INFO:root:Test ROC AUC: 0.9363018302750129
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9317614856335233
+INFO:root:Test ROC AUC: 0.9362289555140327
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9320416217936307
+INFO:root:Test ROC AUC: 0.9335972151444804
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Overall Training ROC Score: 0.9322741022107671, Testing ROC Score : 0.9318125618745687
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9330446433012276
+INFO:root:Test ROC AUC: 0.9247482192556252
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9326811490129437
+INFO:root:Test ROC AUC: 0.928229515543186
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9318360848533263
+INFO:root:Test ROC AUC: 0.9366697721590641
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.932520878098532
+INFO:root:Test ROC AUC: 0.9282808151327894
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9327836597894975
+INFO:root:Test ROC AUC: 0.9282106467286192
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9321033801925738
+INFO:root:Test ROC AUC: 0.9330451908108872
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9322099386924257
+INFO:root:Test ROC AUC: 0.9328134581819898
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.931758180739989
+INFO:root:Test ROC AUC: 0.9363018302750129
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9317614856335233
+INFO:root:Test ROC AUC: 0.9362289555140327
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9320416217936307
+INFO:root:Test ROC AUC: 0.9335972151444804
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Overall Training ROC Score: 0.9322741022107671, Testing ROC Score : 0.9318125618745687
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.1, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l1', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.1, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l1', 'random_state': None, 'solver': 'liblinear', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9330531901126525
+INFO:root:Test ROC AUC: 0.9247694466720129
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.1, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l1', 'random_state': None, 'solver': 'liblinear', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9326873297990593
+INFO:root:Test ROC AUC: 0.9282731496768716
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.1, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l1', 'random_state': None, 'solver': 'liblinear', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9318430373276965
+INFO:root:Test ROC AUC: 0.9366662342563328
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.1, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l1', 'random_state': None, 'solver': 'liblinear', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9325275248096317
+INFO:root:Test ROC AUC: 0.9282814047832445
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.1, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l1', 'random_state': None, 'solver': 'liblinear', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9327923813227913
+INFO:root:Test ROC AUC: 0.9281876503608661
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.1, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l1', 'random_state': None, 'solver': 'liblinear', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9321097648208699
+INFO:root:Test ROC AUC: 0.9330628803245437
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.1, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l1', 'random_state': None, 'solver': 'liblinear', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9322152167488849
+INFO:root:Test ROC AUC: 0.9328252511910938
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.1, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l1', 'random_state': None, 'solver': 'liblinear', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9317642232046249
+INFO:root:Test ROC AUC: 0.9362988820227369
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.1, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l1', 'random_state': None, 'solver': 'liblinear', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9317687873296486
+INFO:root:Test ROC AUC: 0.9362012343581904
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.1, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l1', 'random_state': None, 'solver': 'liblinear', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9320484066199404
+INFO:root:Test ROC AUC: 0.9336054725100504
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Overall Training ROC Score: 0.9322809862095802, Testing ROC Score : 0.9318171606155943
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9330446433012276
+INFO:root:Test ROC AUC: 0.9247482192556252
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9326811490129437
+INFO:root:Test ROC AUC: 0.928229515543186
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9318360848533263
+INFO:root:Test ROC AUC: 0.9366697721590641
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.932520878098532
+INFO:root:Test ROC AUC: 0.9282808151327894
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9327836597894975
+INFO:root:Test ROC AUC: 0.9282106467286192
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9321033801925738
+INFO:root:Test ROC AUC: 0.9330451908108872
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9322099386924257
+INFO:root:Test ROC AUC: 0.9328134581819898
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.931758180739989
+INFO:root:Test ROC AUC: 0.9363018302750129
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9317614856335233
+INFO:root:Test ROC AUC: 0.9362289555140327
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9320416217936307
+INFO:root:Test ROC AUC: 0.9335972151444804
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Overall Training ROC Score: 0.9322741022107671, Testing ROC Score : 0.9318125618745687

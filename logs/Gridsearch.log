@@ -1,0 +1,11 @@
+INFO:Decision Tree Model
+Best parameters: {'criterion': 'gini', 'max_depth': 10, 'max_features': None, 'min_samples_leaf': 1, 'min_samples_split': 7}
+Training ROC AUC Score: 0.9656984831889144
+Validation ROC AUC Score: 0.9556913807237706
+
+
+
+INFO:RandomForest Model 
+Best parameters: {'n_estimators': 300, 'min_samples_split': 10, 'min_samples_leaf': 1, 'max_features': 'auto', 'max_depth': None, 'bootstrap': True}
+Training ROC AUC Score: 0.9998677932382543
+Validation ROC AUC Score: 0.9925888857971893

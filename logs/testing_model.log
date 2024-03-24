@@ -1,0 +1,1387 @@
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Train ROC AUC: 0.9656437141916786
+INFO:root:Test ROC AUC: 0.9571625923299044
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.92     32893
+         Yes       0.88      0.97      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.86      0.91      3655
+         Yes       0.88      0.96      0.92      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.92      0.91      0.91      7310
+weighted avg       0.92      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Train ROC AUC: 0.9647807496595897
+INFO:root:Test ROC AUC: 0.9531730421943219
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.88      0.92     32893
+         Yes       0.89      0.97      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.86      0.90      3655
+         Yes       0.87      0.96      0.91      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.91      0.91      0.91      7310
+weighted avg       0.91      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Train ROC AUC: 0.9640784959630772
+INFO:root:Test ROC AUC: 0.9588827028918653
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.92     32893
+         Yes       0.88      0.96      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.87      0.91      3655
+         Yes       0.88      0.95      0.92      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.92      0.91      0.91      7310
+weighted avg       0.92      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Train ROC AUC: 0.9638844947551704
+INFO:root:Test ROC AUC: 0.9560341417131865
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.88      0.92     32893
+         Yes       0.89      0.96      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.86      0.90      3655
+         Yes       0.88      0.95      0.91      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.91      0.91      0.91      7310
+weighted avg       0.91      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Train ROC AUC: 0.9645327694972559
+INFO:root:Test ROC AUC: 0.9585972778702038
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.91     32893
+         Yes       0.88      0.96      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.86      0.91      3655
+         Yes       0.88      0.96      0.92      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.92      0.91      0.91      7310
+weighted avg       0.92      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Train ROC AUC: 0.9649037775885959
+INFO:root:Test ROC AUC: 0.9569367150671552
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.88      0.92     32893
+         Yes       0.89      0.96      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.87      0.91      3655
+         Yes       0.88      0.95      0.91      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.91      0.91      0.91      7310
+weighted avg       0.91      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Train ROC AUC: 0.964377737044437
+INFO:root:Test ROC AUC: 0.9534639998742079
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.91     32894
+         Yes       0.88      0.96      0.92     32893
+
+    accuracy                           0.92     65787
+   macro avg       0.92      0.92      0.92     65787
+weighted avg       0.92      0.92      0.92     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.86      0.90      3654
+         Yes       0.87      0.95      0.91      3655
+
+    accuracy                           0.91      7309
+   macro avg       0.91      0.91      0.91      7309
+weighted avg       0.91      0.91      0.91      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Train ROC AUC: 0.9642588607975637
+INFO:root:Test ROC AUC: 0.9577463971421233
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.88      0.92     32894
+         Yes       0.89      0.96      0.92     32893
+
+    accuracy                           0.92     65787
+   macro avg       0.92      0.92      0.92     65787
+weighted avg       0.92      0.92      0.92     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.87      0.91      3654
+         Yes       0.88      0.96      0.92      3655
+
+    accuracy                           0.91      7309
+   macro avg       0.91      0.91      0.91      7309
+weighted avg       0.91      0.91      0.91      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Train ROC AUC: 0.9640921297955894
+INFO:root:Test ROC AUC: 0.955385698786331
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.88      0.91     32893
+         Yes       0.89      0.95      0.92     32894
+
+    accuracy                           0.92     65787
+   macro avg       0.92      0.92      0.92     65787
+weighted avg       0.92      0.92      0.92     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.86      0.90      3655
+         Yes       0.87      0.95      0.91      3654
+
+    accuracy                           0.90      7309
+   macro avg       0.91      0.90      0.90      7309
+weighted avg       0.91      0.90      0.90      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Train ROC AUC: 0.9638840538490044
+INFO:root:Test ROC AUC: 0.9536095967389897
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.91     32893
+         Yes       0.88      0.96      0.92     32894
+
+    accuracy                           0.92     65787
+   macro avg       0.92      0.92      0.92     65787
+weighted avg       0.92      0.92      0.92     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.86      0.91      3655
+         Yes       0.87      0.96      0.91      3654
+
+    accuracy                           0.91      7309
+   macro avg       0.91      0.91      0.91      7309
+weighted avg       0.91      0.91      0.91      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Overall Training ROC Score: 0.9644436783141963, Testing ROC Score : 0.9560992164608288
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Train ROC AUC: 0.9656437141916786
+INFO:root:Test ROC AUC: 0.9569884403989063
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.92     32893
+         Yes       0.88      0.97      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.86      0.91      3655
+         Yes       0.88      0.96      0.92      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.92      0.91      0.91      7310
+weighted avg       0.92      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Train ROC AUC: 0.9647757877826694
+INFO:root:Test ROC AUC: 0.953170122819592
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.88      0.92     32893
+         Yes       0.89      0.97      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.86      0.90      3655
+         Yes       0.87      0.96      0.91      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.91      0.91      0.91      7310
+weighted avg       0.91      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Train ROC AUC: 0.9640334217684878
+INFO:root:Test ROC AUC: 0.9598253989344282
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.92     32893
+         Yes       0.88      0.96      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.87      0.91      3655
+         Yes       0.88      0.95      0.92      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.92      0.91      0.91      7310
+weighted avg       0.92      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Train ROC AUC: 0.9638637257626627
+INFO:root:Test ROC AUC: 0.9561123659847932
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.88      0.92     32893
+         Yes       0.89      0.96      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.86      0.90      3655
+         Yes       0.88      0.95      0.91      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.91      0.91      0.91      7310
+weighted avg       0.91      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Train ROC AUC: 0.9645327694972559
+INFO:root:Test ROC AUC: 0.9589718935326491
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.91     32893
+         Yes       0.88      0.96      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.86      0.91      3655
+         Yes       0.88      0.96      0.92      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.92      0.91      0.91      7310
+weighted avg       0.92      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Train ROC AUC: 0.9648522959782014
+INFO:root:Test ROC AUC: 0.9569842859040986
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.88      0.92     32893
+         Yes       0.89      0.96      0.92     32893
+
+    accuracy                           0.92     65786
+   macro avg       0.92      0.92      0.92     65786
+weighted avg       0.92      0.92      0.92     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.87      0.91      3655
+         Yes       0.88      0.95      0.91      3655
+
+    accuracy                           0.91      7310
+   macro avg       0.91      0.91      0.91      7310
+weighted avg       0.91      0.91      0.91      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Train ROC AUC: 0.964377737044437
+INFO:root:Test ROC AUC: 0.9540195067602021
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.91     32894
+         Yes       0.88      0.96      0.92     32893
+
+    accuracy                           0.92     65787
+   macro avg       0.92      0.92      0.92     65787
+weighted avg       0.92      0.92      0.92     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.86      0.90      3654
+         Yes       0.87      0.95      0.91      3655
+
+    accuracy                           0.91      7309
+   macro avg       0.91      0.91      0.91      7309
+weighted avg       0.91      0.91      0.91      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Train ROC AUC: 0.9642674150037099
+INFO:root:Test ROC AUC: 0.9580220914882926
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.88      0.92     32894
+         Yes       0.89      0.96      0.92     32893
+
+    accuracy                           0.92     65787
+   macro avg       0.92      0.92      0.92     65787
+weighted avg       0.92      0.92      0.92     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.87      0.91      3654
+         Yes       0.88      0.96      0.92      3655
+
+    accuracy                           0.91      7309
+   macro avg       0.92      0.91      0.91      7309
+weighted avg       0.92      0.91      0.91      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Train ROC AUC: 0.9641037334969742
+INFO:root:Test ROC AUC: 0.9555977108833376
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.88      0.91     32893
+         Yes       0.89      0.95      0.92     32894
+
+    accuracy                           0.92     65787
+   macro avg       0.92      0.92      0.92     65787
+weighted avg       0.92      0.92      0.92     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.95      0.86      0.90      3655
+         Yes       0.87      0.95      0.91      3654
+
+    accuracy                           0.91      7309
+   macro avg       0.91      0.91      0.90      7309
+weighted avg       0.91      0.91      0.90      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Train ROC AUC: 0.9638615622619837
+INFO:root:Test ROC AUC: 0.9538624538294335
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.87      0.91     32893
+         Yes       0.88      0.96      0.92     32894
+
+    accuracy                           0.92     65787
+   macro avg       0.92      0.92      0.92     65787
+weighted avg       0.92      0.92      0.92     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.96      0.86      0.91      3655
+         Yes       0.87      0.96      0.91      3654
+
+    accuracy                           0.91      7309
+   macro avg       0.91      0.91      0.91      7309
+weighted avg       0.91      0.91      0.91      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Overall Training ROC Score: 0.9644312162788061, Testing ROC Score : 0.9563554270535732
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt
+INFO:matplotlib.font_manager:Fontsize 0.28 < 1.0 pt not allowed by FreeType. Setting fontsize = 1 pt

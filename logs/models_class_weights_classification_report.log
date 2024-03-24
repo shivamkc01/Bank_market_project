@@ -1,0 +1,1264 @@
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9330446433012276
+INFO:root:Test ROC AUC: 0.9247482192556252
+INFO:root:Train Classification Report:
+INFO:root:     precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.73      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:     precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.78      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9326811490129437
+INFO:root:Test ROC AUC: 0.928229515543186
+INFO:root:Train Classification Report:
+INFO:root:    precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.73      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:     precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.79      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9318360848533263
+INFO:root:Test ROC AUC: 0.9366697721590641
+INFO:root:Train Classification Report:
+INFO:root:     precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.79      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:     precision    recall  f1-score   support
+
+          No       0.97      0.90      0.93      3655
+         Yes       0.49      0.79      0.61       464
+
+    accuracy                           0.89      4119
+   macro avg       0.73      0.85      0.77      4119
+weighted avg       0.92      0.89      0.90      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.932520878098532
+INFO:root:Test ROC AUC: 0.9282808151327894
+INFO:root:Train Classification Report:
+INFO:root:      precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:      precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.78      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9327836597894975
+INFO:root:Test ROC AUC: 0.9282106467286192
+INFO:root:Train Classification Report:
+INFO:root:      precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:     precision    recall  f1-score   support
+
+          No       0.97      0.88      0.92      3655
+         Yes       0.45      0.80      0.58       464
+
+    accuracy                           0.87      4119
+   macro avg       0.71      0.84      0.75      4119
+weighted avg       0.91      0.87      0.88      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9321033801925738
+INFO:root:Test ROC AUC: 0.9330451908108872
+INFO:root:Train Classification Report:
+INFO:root:      precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:      precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.48      0.81      0.60       464
+
+    accuracy                           0.88      4119
+   macro avg       0.73      0.85      0.76      4119
+weighted avg       0.92      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9322099386924257
+INFO:root:Test ROC AUC: 0.9328134581819898
+INFO:root:Train Classification Report:
+INFO:root:      precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.79      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:      precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.48      0.80      0.60       464
+
+    accuracy                           0.88      4119
+   macro avg       0.73      0.85      0.77      4119
+weighted avg       0.92      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.931758180739989
+INFO:root:Test ROC AUC: 0.9363018302750129
+INFO:root:Train Classification Report:
+INFO:root:      precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:      precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.79      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9317614856335233
+INFO:root:Test ROC AUC: 0.9362289555140327
+INFO:root:Train Classification Report:
+INFO:root:    precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32894
+         Yes       0.48      0.79      0.59      4176
+
+    accuracy                           0.88     37070
+   macro avg       0.72      0.84      0.76     37070
+weighted avg       0.92      0.88      0.89     37070
+
+INFO:root:Test Classification Report:
+INFO:root:     precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3654
+         Yes       0.48      0.82      0.61       464
+
+    accuracy                           0.88      4118
+   macro avg       0.73      0.85      0.77      4118
+weighted avg       0.92      0.88      0.89      4118
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9320416217936307
+INFO:root:Test ROC AUC: 0.9335972151444804
+INFO:root:Train Classification Report:
+INFO:root:     precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32894
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37070
+   macro avg       0.72      0.84      0.76     37070
+weighted avg       0.92      0.88      0.89     37070
+
+INFO:root:Test Classification Report:
+INFO:root:      precision    recall  f1-score   support
+
+          No       0.97      0.90      0.93      3654
+         Yes       0.50      0.78      0.61       464
+
+    accuracy                           0.89      4118
+   macro avg       0.73      0.84      0.77      4118
+weighted avg       0.92      0.89      0.90      4118
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Overall Training ROC Score on Folds : 0.9322741022107671, Testing ROC Score : 0.9318125618745687
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9330446433012276
+INFO:root:Test ROC AUC: 0.9247482192556252
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.73      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.78      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9326811490129437
+INFO:root:Test ROC AUC: 0.928229515543186
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.73      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.79      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9318360848533263
+INFO:root:Test ROC AUC: 0.9366697721590641
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.79      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.90      0.93      3655
+         Yes       0.49      0.79      0.61       464
+
+    accuracy                           0.89      4119
+   macro avg       0.73      0.85      0.77      4119
+weighted avg       0.92      0.89      0.90      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.932520878098532
+INFO:root:Test ROC AUC: 0.9282808151327894
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.78      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9327836597894975
+INFO:root:Test ROC AUC: 0.9282106467286192
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.88      0.92      3655
+         Yes       0.45      0.80      0.58       464
+
+    accuracy                           0.87      4119
+   macro avg       0.71      0.84      0.75      4119
+weighted avg       0.91      0.87      0.88      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9321033801925738
+INFO:root:Test ROC AUC: 0.9330451908108872
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.48      0.81      0.60       464
+
+    accuracy                           0.88      4119
+   macro avg       0.73      0.85      0.76      4119
+weighted avg       0.92      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9322099386924257
+INFO:root:Test ROC AUC: 0.9328134581819898
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.79      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.48      0.80      0.60       464
+
+    accuracy                           0.88      4119
+   macro avg       0.73      0.85      0.77      4119
+weighted avg       0.92      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.931758180739989
+INFO:root:Test ROC AUC: 0.9363018302750129
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.79      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9317614856335233
+INFO:root:Test ROC AUC: 0.9362289555140327
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32894
+         Yes       0.48      0.79      0.59      4176
+
+    accuracy                           0.88     37070
+   macro avg       0.72      0.84      0.76     37070
+weighted avg       0.92      0.88      0.89     37070
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3654
+         Yes       0.48      0.82      0.61       464
+
+    accuracy                           0.88      4118
+   macro avg       0.73      0.85      0.77      4118
+weighted avg       0.92      0.88      0.89      4118
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9320416217936307
+INFO:root:Test ROC AUC: 0.9335972151444804
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32894
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37070
+   macro avg       0.72      0.84      0.76     37070
+weighted avg       0.92      0.88      0.89     37070
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.90      0.93      3654
+         Yes       0.50      0.78      0.61       464
+
+    accuracy                           0.89      4118
+   macro avg       0.73      0.84      0.77      4118
+weighted avg       0.92      0.89      0.90      4118
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Overall Training ROC Score: 0.9322741022107671, Testing ROC Score : 0.9318125618745687
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9330446433012276
+INFO:root:Test ROC AUC: 0.9247482192556252
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.73      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.78      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9330446433012276
+INFO:root:Test ROC AUC: 0.9247482192556252
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.73      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.78      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9330446433012276
+INFO:root:Test ROC AUC: 0.9247482192556252
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.73      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.78      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9326811490129437
+INFO:root:Test ROC AUC: 0.928229515543186
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.73      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.79      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9318360848533263
+INFO:root:Test ROC AUC: 0.9366697721590641
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.79      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.90      0.93      3655
+         Yes       0.49      0.79      0.61       464
+
+    accuracy                           0.89      4119
+   macro avg       0.73      0.85      0.77      4119
+weighted avg       0.92      0.89      0.90      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.932520878098532
+INFO:root:Test ROC AUC: 0.9282808151327894
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.78      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9327836597894975
+INFO:root:Test ROC AUC: 0.9282106467286192
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.88      0.92      3655
+         Yes       0.45      0.80      0.58       464
+
+    accuracy                           0.87      4119
+   macro avg       0.71      0.84      0.75      4119
+weighted avg       0.91      0.87      0.88      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9321033801925738
+INFO:root:Test ROC AUC: 0.9330451908108872
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.48      0.81      0.60       464
+
+    accuracy                           0.88      4119
+   macro avg       0.73      0.85      0.76      4119
+weighted avg       0.92      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9322099386924257
+INFO:root:Test ROC AUC: 0.9328134581819898
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.79      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.48      0.80      0.60       464
+
+    accuracy                           0.88      4119
+   macro avg       0.73      0.85      0.77      4119
+weighted avg       0.92      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.931758180739989
+INFO:root:Test ROC AUC: 0.9363018302750129
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.79      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9317614856335233
+INFO:root:Test ROC AUC: 0.9362289555140327
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32894
+         Yes       0.48      0.79      0.59      4176
+
+    accuracy                           0.88     37070
+   macro avg       0.72      0.84      0.76     37070
+weighted avg       0.92      0.88      0.89     37070
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3654
+         Yes       0.48      0.82      0.61       464
+
+    accuracy                           0.88      4118
+   macro avg       0.73      0.85      0.77      4118
+weighted avg       0.92      0.88      0.89      4118
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9320416217936307
+INFO:root:Test ROC AUC: 0.9335972151444804
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32894
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37070
+   macro avg       0.72      0.84      0.76     37070
+weighted avg       0.92      0.88      0.89     37070
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.90      0.93      3654
+         Yes       0.50      0.78      0.61       464
+
+    accuracy                           0.89      4118
+   macro avg       0.73      0.84      0.77      4118
+weighted avg       0.92      0.89      0.90      4118
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Overall Training ROC Score: 0.9322741022107671, Testing ROC Score : 0.9318125618745687
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9330446433012276
+INFO:root:Test ROC AUC: 0.9247482192556252
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.73      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.78      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9326811490129437
+INFO:root:Test ROC AUC: 0.928229515543186
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.73      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.79      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9318360848533263
+INFO:root:Test ROC AUC: 0.9366697721590641
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.79      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.90      0.93      3655
+         Yes       0.49      0.79      0.61       464
+
+    accuracy                           0.89      4119
+   macro avg       0.73      0.85      0.77      4119
+weighted avg       0.92      0.89      0.90      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.932520878098532
+INFO:root:Test ROC AUC: 0.9282808151327894
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.78      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9327836597894975
+INFO:root:Test ROC AUC: 0.9282106467286192
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.88      0.92      3655
+         Yes       0.45      0.80      0.58       464
+
+    accuracy                           0.87      4119
+   macro avg       0.71      0.84      0.75      4119
+weighted avg       0.91      0.87      0.88      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9321033801925738
+INFO:root:Test ROC AUC: 0.9330451908108872
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.48      0.81      0.60       464
+
+    accuracy                           0.88      4119
+   macro avg       0.73      0.85      0.76      4119
+weighted avg       0.92      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9322099386924257
+INFO:root:Test ROC AUC: 0.9328134581819898
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.79      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.48      0.80      0.60       464
+
+    accuracy                           0.88      4119
+   macro avg       0.73      0.85      0.77      4119
+weighted avg       0.92      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 37069, Valid size , 4119
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.931758180739989
+INFO:root:Test ROC AUC: 0.9363018302750129
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32893
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37069
+   macro avg       0.72      0.84      0.76     37069
+weighted avg       0.92      0.88      0.89     37069
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3655
+         Yes       0.47      0.79      0.59       464
+
+    accuracy                           0.88      4119
+   macro avg       0.72      0.84      0.76      4119
+weighted avg       0.91      0.88      0.89      4119
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9317614856335233
+INFO:root:Test ROC AUC: 0.9362289555140327
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32894
+         Yes       0.48      0.79      0.59      4176
+
+    accuracy                           0.88     37070
+   macro avg       0.72      0.84      0.76     37070
+weighted avg       0.92      0.88      0.89     37070
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93      3654
+         Yes       0.48      0.82      0.61       464
+
+    accuracy                           0.88      4118
+   macro avg       0.73      0.85      0.77      4118
+weighted avg       0.92      0.88      0.89      4118
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 37070, Valid size , 4118
+INFO:root:Model Name : LogisticRegression
+INFO:root:Hyperparameters : {'C': 1.0, 'class_weight': {0: 1, 1: 5}, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 1000, 'multi_class': 'auto', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9320416217936307
+INFO:root:Test ROC AUC: 0.9335972151444804
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.89      0.93     32894
+         Yes       0.48      0.80      0.60      4176
+
+    accuracy                           0.88     37070
+   macro avg       0.72      0.84      0.76     37070
+weighted avg       0.92      0.88      0.89     37070
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.97      0.90      0.93      3654
+         Yes       0.50      0.78      0.61       464
+
+    accuracy                           0.89      4118
+   macro avg       0.73      0.84      0.77      4118
+weighted avg       0.92      0.89      0.90      4118
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Overall Training ROC Score: 0.9322741022107671, Testing ROC Score : 0.9318125618745687

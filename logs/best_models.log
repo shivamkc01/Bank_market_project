@@ -1,0 +1,715 @@
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998910318775901
+INFO:root:Test ROC AUC: 0.9904615044885385
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.91      0.95      3655
+         Yes       0.91      1.00      0.95      3655
+
+    accuracy                           0.95      7310
+   macro avg       0.95      0.95      0.95      7310
+weighted avg       0.95      0.95      0.95      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998893987144125
+INFO:root:Test ROC AUC: 0.9901797473992301
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.89      0.94      3655
+         Yes       0.90      0.99      0.95      3655
+
+    accuracy                           0.94      7310
+   macro avg       0.95      0.94      0.94      7310
+weighted avg       0.95      0.94      0.94      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9999053061119495
+INFO:root:Test ROC AUC: 0.9920046560284153
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.91      0.95      3655
+         Yes       0.92      1.00      0.96      3655
+
+    accuracy                           0.96      7310
+   macro avg       0.96      0.96      0.96      7310
+weighted avg       0.96      0.96      0.96      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998938980004046
+INFO:root:Test ROC AUC: 0.9919026276243963
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.90      0.95      3655
+         Yes       0.91      0.99      0.95      3655
+
+    accuracy                           0.95      7310
+   macro avg       0.95      0.95      0.95      7310
+weighted avg       0.95      0.95      0.95      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9999010693151155
+INFO:root:Test ROC AUC: 0.993259538027663
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.91      0.95      3655
+         Yes       0.92      1.00      0.96      3655
+
+    accuracy                           0.95      7310
+   macro avg       0.96      0.95      0.95      7310
+weighted avg       0.96      0.95      0.95      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.999886205404408
+INFO:root:Test ROC AUC: 0.9922102099516993
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.91      0.95      3655
+         Yes       0.92      0.99      0.96      3655
+
+    accuracy                           0.95      7310
+   macro avg       0.96      0.95      0.95      7310
+weighted avg       0.96      0.95      0.95      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.999893778303454
+INFO:root:Test ROC AUC: 0.9915553818426596
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32894
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65787
+   macro avg       0.98      0.98      0.98     65787
+weighted avg       0.98      0.98      0.98     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.90      0.95      3654
+         Yes       0.91      1.00      0.95      3655
+
+    accuracy                           0.95      7309
+   macro avg       0.95      0.95      0.95      7309
+weighted avg       0.95      0.95      0.95      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998742835305903
+INFO:root:Test ROC AUC: 0.9921049735050396
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32894
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65787
+   macro avg       0.98      0.98      0.98     65787
+weighted avg       0.98      0.98      0.98     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.90      0.94      3654
+         Yes       0.91      1.00      0.95      3655
+
+    accuracy                           0.95      7309
+   macro avg       0.95      0.95      0.95      7309
+weighted avg       0.95      0.95      0.95      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998939298770922
+INFO:root:Test ROC AUC: 0.9910230865936325
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32894
+
+    accuracy                           0.98     65787
+   macro avg       0.98      0.98      0.98     65787
+weighted avg       0.98      0.98      0.98     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.90      0.94      3655
+         Yes       0.91      1.00      0.95      3654
+
+    accuracy                           0.95      7309
+   macro avg       0.95      0.95      0.95      7309
+weighted avg       0.95      0.95      0.95      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998991831975756
+INFO:root:Test ROC AUC: 0.9881964333447893
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32894
+
+    accuracy                           0.98     65787
+   macro avg       0.98      0.98      0.98     65787
+weighted avg       0.98      0.98      0.98     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.90      0.94      3655
+         Yes       0.91      1.00      0.95      3654
+
+    accuracy                           0.95      7309
+   macro avg       0.95      0.95      0.95      7309
+weighted avg       0.95      0.95      0.95      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Overall Training ROC Score: nan, Testing ROC Score : nan
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.999888897766794
+INFO:root:Test ROC AUC: 0.9902358143651951
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.91      0.95      3655
+         Yes       0.91      1.00      0.95      3655
+
+    accuracy                           0.95      7310
+   macro avg       0.95      0.95      0.95      7310
+weighted avg       0.95      0.95      0.95      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 1: 27.458489656448364 seconds
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.999890834086464
+INFO:root:Test ROC AUC: 0.9905034985711907
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.89      0.94      3655
+         Yes       0.90      0.99      0.95      3655
+
+    accuracy                           0.94      7310
+   macro avg       0.95      0.94      0.94      7310
+weighted avg       0.95      0.94      0.94      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 2: 27.60046625137329 seconds
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.999903716388879
+INFO:root:Test ROC AUC: 0.9917783670589733
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.91      0.95      3655
+         Yes       0.92      1.00      0.96      3655
+
+    accuracy                           0.95      7310
+   macro avg       0.96      0.95      0.95      7310
+weighted avg       0.96      0.95      0.95      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 3: 27.50735378265381 seconds
+INFO:root:#########################
+INFO:root:### FOLD 4 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9999004445169785
+INFO:root:Test ROC AUC: 0.991783008116236
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.90      0.95      3655
+         Yes       0.91      0.99      0.95      3655
+
+    accuracy                           0.95      7310
+   macro avg       0.95      0.95      0.95      7310
+weighted avg       0.95      0.95      0.95      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 4: 27.8030846118927 seconds
+INFO:root:#########################
+INFO:root:### FOLD 5 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998975053778136
+INFO:root:Test ROC AUC: 0.9932406743755625
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.91      0.95      3655
+         Yes       0.92      1.00      0.95      3655
+
+    accuracy                           0.95      7310
+   macro avg       0.96      0.95      0.95      7310
+weighted avg       0.96      0.95      0.95      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 5: 27.93561887741089 seconds
+INFO:root:#########################
+INFO:root:### FOLD 6 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998894782005661
+INFO:root:Test ROC AUC: 0.9922671003310497
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.92      0.95      3655
+         Yes       0.92      0.99      0.96      3655
+
+    accuracy                           0.95      7310
+   macro avg       0.96      0.95      0.95      7310
+weighted avg       0.96      0.95      0.95      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 6: 27.831302881240845 seconds
+INFO:root:#########################
+INFO:root:### FOLD 7 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998953254636387
+INFO:root:Test ROC AUC: 0.9914862710654965
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32894
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65787
+   macro avg       0.98      0.98      0.98     65787
+weighted avg       0.98      0.98      0.98     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.90      0.95      3654
+         Yes       0.91      1.00      0.95      3655
+
+    accuracy                           0.95      7309
+   macro avg       0.95      0.95      0.95      7309
+weighted avg       0.95      0.95      0.95      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 7: 27.447681427001953 seconds
+INFO:root:#########################
+INFO:root:### FOLD 8 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998857402794843
+INFO:root:Test ROC AUC: 0.9924795793751877
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32894
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65787
+   macro avg       0.98      0.98      0.98     65787
+weighted avg       0.98      0.98      0.98     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.90      0.94      3654
+         Yes       0.91      1.00      0.95      3655
+
+    accuracy                           0.95      7309
+   macro avg       0.95      0.95      0.95      7309
+weighted avg       0.95      0.95      0.95      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 8: 27.662312746047974 seconds
+INFO:root:#########################
+INFO:root:### FOLD 9 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998941230410578
+INFO:root:Test ROC AUC: 0.9911580135930341
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32894
+
+    accuracy                           0.98     65787
+   macro avg       0.98      0.98      0.98     65787
+weighted avg       0.98      0.98      0.98     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.90      0.94      3655
+         Yes       0.91      1.00      0.95      3654
+
+    accuracy                           0.95      7309
+   macro avg       0.95      0.95      0.95      7309
+weighted avg       0.95      0.95      0.95      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 9: 27.52204155921936 seconds
+INFO:root:#########################
+INFO:root:### FOLD 10 ###
+INFO:root:### Train size , 65787, Valid size , 7309
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9999011000495607
+INFO:root:Test ROC AUC: 0.9878661542136233
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32894
+
+    accuracy                           0.98     65787
+   macro avg       0.98      0.98      0.98     65787
+weighted avg       0.98      0.98      0.98     65787
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.90      0.94      3655
+         Yes       0.90      1.00      0.95      3654
+
+    accuracy                           0.95      7309
+   macro avg       0.95      0.95      0.95      7309
+weighted avg       0.95      0.95      0.95      7309
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 10: 27.72439408302307 seconds
+INFO:root:Overall Training ROC Score: 0.9998947165171236, Testing ROC Score : 0.9912798481065549
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998874568491971
+INFO:root:Test ROC AUC: 0.9900912678881879
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.91      0.95      3655
+         Yes       0.91      1.00      0.95      3655
+
+    accuracy                           0.95      7310
+   macro avg       0.95      0.95      0.95      7310
+weighted avg       0.95      0.95      0.95      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 1: 29.181838512420654 seconds
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:#########################
+INFO:root:### FOLD 1 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.9998930689413384
+INFO:root:Test ROC AUC: 0.990360074930618
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.91      0.95      3655
+         Yes       0.92      1.00      0.95      3655
+
+    accuracy                           0.95      7310
+   macro avg       0.96      0.95      0.95      7310
+weighted avg       0.96      0.95      0.95      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 1: 31.238200902938843 seconds
+INFO:root:#########################
+INFO:root:### FOLD 2 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
+INFO:root:Train ROC AUC: 0.999888987419781
+INFO:root:Test ROC AUC: 0.9903014628687349
+INFO:root:Train Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       1.00      0.97      0.98     32893
+         Yes       0.97      1.00      0.98     32893
+
+    accuracy                           0.98     65786
+   macro avg       0.98      0.98      0.98     65786
+weighted avg       0.98      0.98      0.98     65786
+
+INFO:root:Test Classification Report:
+INFO:root:              precision    recall  f1-score   support
+
+          No       0.99      0.89      0.94      3655
+         Yes       0.90      0.99      0.95      3655
+
+    accuracy                           0.94      7310
+   macro avg       0.95      0.94      0.94      7310
+weighted avg       0.95      0.94      0.94      7310
+
+INFO:root:#########################
+INFO:root:
+
+INFO:root:Time taken for fold 2: 31.596474647521973 seconds
+INFO:root:#########################
+INFO:root:### FOLD 3 ###
+INFO:root:### Train size , 65786, Valid size , 7310
+INFO:root:Model Name : rf
+INFO:root:Hyperparameters : {'bootstrap': True, 'ccp_alpha': 0.0, 'class_weight': None, 'criterion': 'gini', 'max_depth': None, 'max_features': 'auto', 'max_leaf_nodes': None, 'max_samples': None, 'min_impurity_decrease': 0.0, 'min_samples_leaf': 1, 'min_samples_split': 10, 'min_weight_fraction_leaf': 0.0, 'n_estimators': 300, 'n_jobs': None, 'oob_score': False, 'random_state': None, 'verbose': 0, 'warm_start': False}
