@@ -1,4 +1,2 @@
-input/*
-model/*
-result_plots/*
-notebook/*
+
+*.bin
